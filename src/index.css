@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+:root {
+  --grey: #6D6966;
+  --cream: #D1CBBB;
+}
