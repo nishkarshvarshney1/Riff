@@ -3,4 +3,10 @@
 :root {
   --grey: #6D6966;
   --cream: #D1CBBB;
+  --light-grey: #878380;
+  --border-color: #857F78;
+}
+
+h5 {
+  color: #ffffff71;
 }
